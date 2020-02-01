@@ -1,6 +1,3 @@
 require "totaram_view_tool/version"
+require "totaram_view_tool/renderer"
 
-module TotaramViewTool
-  class Error < StandardError; end
-  # Your code goes here...
-end
