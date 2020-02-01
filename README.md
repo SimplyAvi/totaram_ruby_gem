@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+TotaramViewTool::Renderer.copyright 'Avitosh Totaram', 'All rights reserved'
+```
 
 ## Development
 
